@@ -5,11 +5,9 @@ https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-
 
 <h1 align="center">Hi 👋, I'm Charifa Bounagat</h1>
 <h3 align="center">Full Stack Developer </h3>
-<img align="right" alt="Coding" width="400" src="
-https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp
-" >
 
-![logo]<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp" >
+
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp" >
 
 
 
@@ -17,24 +15,6 @@ https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp
 
 ## 🚀 About Me
 I am a Full-Stack Developer experienced in designing and implementing robust web applications. Proficient in both front-end and back-end technologies, I deliver high-quality, scalable solutions.
-
-
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
-
-🧠 I'm currently learning...
-
-👯‍♀️ I'm looking to collaborate on...
-
-🤔 I'm looking for help with...
-
-💬 Ask me about...
-
-📫 How to reach me...
-
-😄 Pronouns...
-
-⚡️ Fun fact...
 
 
 ## Badges
