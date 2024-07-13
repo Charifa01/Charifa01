@@ -4,7 +4,7 @@ https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-
 )
 
 <h1 align="center">Hi 👋, I'm Charifa Bounagat</h1>
-<h3 align="center">Full Stack Developer </h3>
+<h2 align="center">Full Stack Developer </h2>
 
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp" >
