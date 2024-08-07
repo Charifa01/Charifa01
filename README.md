@@ -51,6 +51,9 @@ Here are some ideas to get you started:
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="bootstrap" width="40" height="40"/>
     </a>
+     <a href="" target="_blank" rel="noreferrer">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"  width="40" height="40"/>
+    </a>          
   </p>
   
   <p>
@@ -66,18 +69,31 @@ Here are some ideas to get you started:
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/next-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
-    
   </p>
-</div>
+  <p>
+     <a href="" target="_blank" rel="noreferrer">
+    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="" width="40" height="40"/>
+  </a>
+    <a href="" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="" width="40" height="40"/>
+  </a>
+     <a href="" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" alt="" width="40" height="40"/>
+  </a>
+  </p>
+
 <p align="left">
-  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+ <a href="" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+   <a href="" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="" width="40" height="40"/>
   </a>
+</p>
+</div>
+
+
   
