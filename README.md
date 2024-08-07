@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charifa Bounagat</h1>
 <h2 align="center">Full Stack Developer | web developer | mern stack developer </h2>
 
-##
 ![MasterHead](
 https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
 )
@@ -14,7 +13,10 @@ https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-
   Passionate and skilled Full-Stack Developer with a robust background in creating intuitive, user-friendly web applications. Proficient in both front-end and back-end development, I bring a comprehensive approach to modern web development. My expertise spans a wide range of technologies including HTML, CSS, JavaScript, TypeScript, PHP, ReactJS, NextJS, NodeJS, VueJS, ExpressJS, Laravel, Tailwind, Bootstrap, MongoDB, and MySQL. As a dedicated MERN stack developer, I specialize in building dynamic and responsive web applications.
 I am excited about the opportunities to collaborate with innovative teams and bring creative solutions to life.
 
-Let's connect and explore how we can build the future of web development together!
+<p>
+  Let's connect and explore how we can build the future of web development together!
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png"  />
+</p>
 </p>
 
 
