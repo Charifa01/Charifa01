@@ -21,6 +21,7 @@ I am excited about the opportunities to collaborate with innovative teams and br
 
 
 ## Badges
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" >
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
@@ -28,22 +29,24 @@ I am excited about the opportunities to collaborate with innovative teams and br
 
 
 ## Tech Stack
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" >
-
 *Client :* React, Redux, TailwindCSS , Vue js  , Next js , Bootstrap 
 
 *Server :* Node, Express, Mysql , Mongo db , Laravel
+
+##
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on enhancing my portfolio with new, innovative projects that showcase my skills in full-stack development
 - 🌱 I’m currently learning advanced techniques in serverless architecture and cloud computing to further expand my backend capabilities
 - 💬 Ask me about web development, particularly in the MERN stack, and how to create seamless, user-friendly applications from scratch.
-- 📫 How to reach me: Feel free to connect with me on
-  <a href="https://www.linkedin.com/in/charifa-bounagat-a66ba0265/" target="_blank" rel="noreferrer">
+- 📫 How to reach me: Feel free to connect with me on 
+ <p>
+    <a href="https://www.linkedin.com/in/charifa-bounagat-a66ba0265/" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="html5" width="40" height="40"/>
   </a>
 
+ </p>
 -->
 <h2 align="left">Languages and Tools:</h2>
 <div> 
