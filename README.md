@@ -28,7 +28,7 @@ I am excited about the opportunities to collaborate with innovative teams and br
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
-<h1> Tech Stack </h1>
+<h3> Tech Stack </h3>
 *Client :* React, Redux, TailwindCSS , Vue js  , Next js , Bootstrap 
 
 *Server :* Node, Express, Mysql , Mongo db , Laravel
