@@ -25,9 +25,10 @@ I am excited about the opportunities to collaborate with innovative teams and br
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-<img align="right" alt="Coding" width="400" height="300" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" >
-
 ## Tech Stack  
+
+
+<img align="right" alt="Coding" width="400" height="300" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" >
 
 *Client :* React, Redux, TailwindCSS , Vue js  , Next js , Bootstrap 
 
