@@ -69,7 +69,16 @@ Here are some ideas to get you started:
     </a>
      <a href="" target="_blank" rel="noreferrer">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"  width="40" height="40"/>
-    </a>          
+    </a>  
+     <a href="" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="" width="40" height="40"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="" width="40" height="40"/>
+  </a>
+   <a href="" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="" width="40" height="40"/>
+  </a>
   </p>
   
   <p>
@@ -88,10 +97,7 @@ Here are some ideas to get you started:
     <a href="" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg"  alt="" width="40" height="40"/>
     </a>
-  </p>
-  
-  <p>
-     <a href="" target="_blank" rel="noreferrer">
+       <a href="" target="_blank" rel="noreferrer">
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="" width="40" height="40"/>
   </a>
     <a href="" target="_blank" rel="noreferrer">
@@ -101,18 +107,7 @@ Here are some ideas to get you started:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" alt="" width="40" height="40"/>
   </a>
   </p>
-
-<p align="left">
- <a href="" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="" width="40" height="40"/>
-  </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="" width="40" height="40"/>
-  </a>
-   <a href="" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="" width="40" height="40"/>
-  </a>
-</p>
+   
 </div>
 
 
