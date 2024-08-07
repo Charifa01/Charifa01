@@ -41,13 +41,16 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on enhancing my portfolio with new, innovative projects that showcase my skills in full-stack development
 - 🌱 I’m currently learning advanced techniques in serverless architecture and cloud computing to further expand my backend capabilities
 - 💬 Ask me about web development, particularly in the MERN stack, and how to create seamless, user-friendly applications from scratch.
-- 📫 How to reach me: Feel free to connect with me on &nbsp;
-    <a href="https://www.linkedin.com/in/charifa-bounagat-a66ba0265/" target="_blank" rel="noreferrer">
-      <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="html5" width="40" height="40"/>
-  </a>
-    <a href="bounagatcharifa01@gmail.com" target="_blank" rel="noreferrer">
-      <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="html5" width="40" height="40"/>
-  </a>
+- 📫 How to reach me: Feel free to connect with me on : 
+    &nbsp;
+  <p>
+      <a href="https://www.linkedin.com/in/charifa-bounagat-a66ba0265/" target="_blank" rel="noreferrer">
+        <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="html5" width="40" height="40"/>
+      </a>
+        <a href="bounagatcharifa01@gmail.com" target="_blank" rel="noreferrer">
+          <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="html5" width="40" height="40"/>
+      </a>
+    </p>
 -->
 <h2 align="left">Languages and Tools:</h2>
 <div> 
