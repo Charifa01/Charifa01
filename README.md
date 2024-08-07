@@ -22,7 +22,7 @@ Let's connect and explore how we can build the future of web development togethe
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp" >
+<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp" >
 
 ## Tech Stack
 
