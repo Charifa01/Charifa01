@@ -21,7 +21,7 @@ I am excited about the opportunities to collaborate with innovative teams and br
 
 
 ## Badges
-<img align="right" alt="Coding" width="400" height="200" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" >
+<img align="right" alt="Coding" width="400" height="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" >
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
