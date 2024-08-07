@@ -45,9 +45,6 @@ Here are some ideas to get you started:
      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </a>
-     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="bootstrap" width="40" height="40"/>
     </a>
@@ -59,17 +56,19 @@ Here are some ideas to get you started:
      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
     </a>
-     <a href="https://gettailwindcss.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/tailwindcss.svg" alt="tailwindcss" width="40" height="40"/>
+     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/next-original-wordmark.svg" alt="react" width="40" height="40"/>
+    </a>
+    
   </p>
 </div>
 <p align="left">
-  
- 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/expressjs-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
   
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
