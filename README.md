@@ -57,8 +57,8 @@ Here are some ideas to get you started:
      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
     </a>     
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="react" width="40" height="40"/>
+   <a href="" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
