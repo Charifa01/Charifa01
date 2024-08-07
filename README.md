@@ -15,7 +15,7 @@ I am excited about the opportunities to collaborate with innovative teams and br
 
 <p>
   Let's connect and explore how we can build the future of web development together!
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png"  />
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="10" height="10" />
 </p>
 </p>
 
