@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-
 I am excited about the opportunities to collaborate with innovative teams and bring creative solutions to life.
 
 <p>
-  Let's connect and explore how we can build the future of web development together! &nbsp; &nbsp; 
+  Let's connect and explore how we can build the future of web development together! &nbsp;
 <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" height="30" />
 </p>
 </p>
