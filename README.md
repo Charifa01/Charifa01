@@ -28,7 +28,7 @@ I am excited about the opportunities to collaborate with innovative teams and br
 
 
 ## Tech Stack
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" >
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" >
 
 *Client :* React, Redux, TailwindCSS , Vue js  , Next js , Bootstrap 
 
