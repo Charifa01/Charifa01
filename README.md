@@ -41,8 +41,17 @@ Here are some ideas to get you started:
   <h3> Front End :</h3>
   <p>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
+      <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
+    </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/react.svg" alt="bootstrap" width="40" height="40"/>
+    </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="bootstrap" width="40" height="40"/>
+    </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="bootstrap" width="40" height="40"/>
+    </a>
   </p>
 </div>
 <p align="left">
