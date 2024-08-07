@@ -6,8 +6,13 @@ https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-
 <h2 align="center">Full Stack Developer | web developer | mern stack developer </h2>
 
 
-## 🚀 About Me
-<p align="center" > I am a Full-Stack Developer experienced in designing and implementing robust web applications. Proficient in both front-end and back-end technologies, I deliver high-quality, scalable solutions. </p>
+<h1 align="center" > 🚀 About Me </h1>
+<p align="center" >
+  Passionate and skilled Full-Stack Developer with a robust background in creating intuitive, user-friendly web applications. Proficient in both front-end and back-end development, I bring a comprehensive approach to modern web development. My expertise spans a wide range of technologies including HTML, CSS, JavaScript, TypeScript, PHP, ReactJS, NextJS, NodeJS, VueJS, ExpressJS, Laravel, Tailwind, Bootstrap, MongoDB, and MySQL. As a dedicated MERN stack developer, I specialize in building dynamic and responsive web applications.
+I am excited about the opportunities to collaborate with innovative teams and bring creative solutions to life.
+
+Let's connect and explore how we can build the future of web development together!
+</p>
 
 
 ## Badges
@@ -79,7 +84,7 @@ Here are some ideas to get you started:
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="" width="40" height="40"/>
   </a>
     <a href="" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" style="color : #fff" alt="" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="" width="40" height="40"/>
   </a>
      <a href="" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" alt="" width="40" height="40"/>
