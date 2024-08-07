@@ -36,12 +36,13 @@ I am excited about the opportunities to collaborate with innovative teams and br
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on enhancing my portfolio with new, innovative projects that showcase my skills in full-stack development
+- 🌱 I’m currently learning advanced techniques in serverless architecture and cloud computing to further expand my backend capabilities
+- 💬 Ask me about web development, particularly in the MERN stack, and how to create seamless, user-friendly applications from scratch.
+- 📫 How to reach me: Feel free to connect with me on
+  <a href="https://www.linkedin.com/in/charifa-bounagat-a66ba0265/" target="_blank" rel="noreferrer">
+      <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="html5" width="40" height="40"/>
+  </a>
 
 -->
 <h2 align="left">Languages and Tools:</h2>
